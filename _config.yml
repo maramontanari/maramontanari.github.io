@@ -1,11 +1,11 @@
 # Your Name or Company
-title: Mara Montanari
+title: Mara Cristina
 
 # Description of your website. This is used for social sharing.
 description:  Doces para festas e comemorações. 
 
 # A brief blurb about yourself
-content: Encomendas de doces para festas e comemorações. Personalize sua encomenda entrando em contato.
+content: Encomendas de doces para festas e comemorações. Personalize sua solicitação entrando em contato.
 
 # Add your social links
 social:
@@ -13,6 +13,8 @@ social:
     url: https://facebook.com/#
   - platform: instagram
     url: https://instagram.com/#
+  - platform: whatsapp
+    url: https://api.whatsapp.com/send?phone=5519997450298&text=whatsapp
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
